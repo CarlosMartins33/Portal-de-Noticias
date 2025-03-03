@@ -42,6 +42,10 @@ h3 {
   font: inherit;
 }
 
+img {
+  max-width: 100%;
+}
+
 div {
   display: flex;
   align-items: center;
@@ -54,11 +58,6 @@ div {
   margin-inline: auto;
 }
 
-/* utility-first */
-.grid {
-  display: grid;
-}
-
-.grid-flow-col {
-  grid-auto-flow: column;
+main {
+  margin-top: 40px;
 }
