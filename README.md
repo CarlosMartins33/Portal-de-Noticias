@@ -30,4 +30,4 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ## :memo: Licença
 
-Acesse Aqui <a href="https://carlosmartins33.github.io/Portal-de-Noticias/">Portal de Noticias/a>
+Acesse Aqui <a href="https://carlosmartins33.github.io/Portal-de-Noticias/">Portal de Noticias</a>
